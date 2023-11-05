@@ -12,7 +12,6 @@ function Sidebar() {
         transition-transform 
         -translate-x-fulldebar
         bg-slate-600
-        h-auto
         '>
             <ul className=''>
                 <li className='p-1 bg-slate-500 
